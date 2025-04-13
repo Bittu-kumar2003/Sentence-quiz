@@ -69,23 +69,23 @@ Quiz ke questions ka structure kuch is tarah hota hai:
 ]
 ```
 ## 🖼 Image
-<h4>Homepage</h4>
+<h3>Homepage</h3>
 
 ![Screenshot (100)](https://github.com/user-attachments/assets/352f5934-2043-4985-89b0-c6a51226963d)
 
-<h4>Quiz Question</h4>
+<h3>Quiz Question</h3>
 
 ![Screenshot (101)](https://github.com/user-attachments/assets/0a6fbc28-0b2d-4c46-940f-66676e846d7f)
 
-<h4>ScoreCard</h4>
+<h3>ScoreCard</h3>
 
 ![Screenshot (102)](https://github.com/user-attachments/assets/858d1962-5ec6-4044-b1ae-fc587bd682e7)
 
 
 ## 📬 Contact
 
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 💻 **GitHub**: [github.com/your-username](https://github.com/your-username)  
-- 🔗 **LinkedIn**: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
+- 📧 **Email**: [bittukumarprajapati200@gmail.com](mailto:bittukumarprajapati2003@gmail.com)  
+- 💻 **GitHub**: [github.com/Bittu Kumar](https://github.com/Bittu-kumar2003)  
+- 🔗 **LinkedIn**: [linkedin.com/in/Bittu Kumar]([https://linkedin.com/in/your-name](https://www.linkedin.com/in/bittu-kumar-812368246/))
 
 
