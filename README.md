@@ -46,3 +46,46 @@ npm start
 - **Answer Feedback**: Har question complete hone ke baad correct ya incorrect jawab turant dikhai jaate hain.
 - **Final Summary**: Quiz ke ant mein user ko complete result summary milti hai jisme har question ka analysis hota hai.
 
+## 🗂 Data Structure
+
+Quiz ke questions ka structure kuch is tarah hota hai:
+
+```json
+[
+  {
+    "id": 1,
+    "sentence": "The ___ jumped over the ___.",
+    "blanks": 2,
+    "options": ["dog", "moon", "cow", "fence"],
+    "answers": ["cow", "moon"]
+  },
+  {
+    "id": 2,
+    "sentence": "She ___ the ball and it ___ over the net.",
+    "blanks": 2,
+    "options": ["hit", "went", "missed", "jumped"],
+    "answers": ["hit", "went"]
+  }
+]
+```
+## 🖼 Image
+<h4>Homepage</h4>
+
+![Screenshot (100)](https://github.com/user-attachments/assets/352f5934-2043-4985-89b0-c6a51226963d)
+
+<h4>Quiz Question</h4>
+
+![Screenshot (101)](https://github.com/user-attachments/assets/0a6fbc28-0b2d-4c46-940f-66676e846d7f)
+
+<h4>ScoreCard</h4>
+
+![Screenshot (102)](https://github.com/user-attachments/assets/858d1962-5ec6-4044-b1ae-fc587bd682e7)
+
+
+## 📬 Contact
+
+- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- 💻 **GitHub**: [github.com/your-username](https://github.com/your-username)  
+- 🔗 **LinkedIn**: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
+
+
