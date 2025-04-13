@@ -86,6 +86,6 @@ Quiz ke questions ka structure kuch is tarah hota hai:
 
 - 📧 **Email**: [bittukumarprajapati200@gmail.com](mailto:bittukumarprajapati2003@gmail.com)  
 - 💻 **GitHub**: [github.com/Bittu Kumar](https://github.com/Bittu-kumar2003)  
-- 🔗 **LinkedIn**: [linkedin.com/in/Bittu Kumar]([https://linkedin.com/in/your-name](https://www.linkedin.com/in/bittu-kumar-812368246/))
+- 🔗 **LinkedIn**: [linkedin.com/in/ Bittu Kumar]([https://linkedin.com/in/your-name](https://www.linkedin.com/in/bittu-kumar-812368246/])
 
 
