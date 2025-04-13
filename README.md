@@ -1,37 +1,39 @@
-# Sentence Completion Quiz
+# 📘 Sentence Completion Quiz
 
-This is a web-based sentence completion quiz application built with React. The quiz displays sentences with blanks, and users must select the correct words from a set of options to fill in the blanks. The quiz also features a timer for each question and tracks the user's progress and results.
+**Sentence Completion Quiz** ek React-based web application hai jisme users ko incomplete sentences ko sahi shabdon ke saath poora karna hota hai. Har question ke liye timer hota hai, aur quiz user ke answers ko track karta hai. Last mein result summary bhi dikhai jaati hai.
 
-## Features
+---
 
-- **Multiple Questions**: The quiz consists of multiple questions, each with one or more blanks to be filled.
-- **Word Selection**: Users can select words from a list of options to fill in the blanks.
-- **Timer**: Each question has a 30-second timer.
-- **Question Navigation**: Users automatically move to the next question after completing the current one, or they can move to the next question manually.
-- **Results Tracking**: The quiz tracks the user's answers and provides a detailed result summary at the end.
-- **Quit Option**: Users can quit the quiz anytime, and the results will be saved.
+## ✨ Features
 
-## Technologies Used
+- **Multiple Questions**: Har question mein ek ya zyada blanks hote hain.
+- **Word Selection**: Options list se sahi shabd chunna hota hai.
+- **Timer**: Har question ke liye 30 seconds ka timer hota hai.
+- **Navigation**: Question complete hone par automatic ya manual next question.
+- **Results Tracking**: Har answer track hota hai, aur end mein detailed result summary milti hai.
+- **Quit Option**: Quiz chhodne par bhi progress save ho jaata hai.
 
-- **React**: JavaScript library for building the user interface.
-- **CSS**: Styling for the application.
-- **JavaScript**: For dynamic interaction and functionality.
+---
 
-## Setup
+## 🛠 Technologies Used
 
-To get started with the project locally, follow the steps below:
+- **React** – UI development ke liye
+- **CSS** – Styling ke liye
+- **JavaScript** – Functionality ke liye
 
-### Prerequisites
+---
 
-Ensure you have the following installed on your local machine:
+## ⚙️ Setup Instructions
 
-- Node.js (v14 or later)
-- npm (comes with Node.js)
+### 📌 Prerequisites
 
-### Installation
+- Node.js (version 14 ya usse upar)
+- npm (Node ke saath aata hai)
 
-1. Clone the repository:
+### 🧪 Installation
 
 ```bash
 git clone https://github.com/your-username/sentence-completion-quiz.git
 cd sentence-completion-quiz
+npm install
+npm start
