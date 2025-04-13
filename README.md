@@ -37,7 +37,7 @@ git clone https://github.com/your-username/sentence-completion-quiz.git
 cd sentence-completion-quiz
 npm install
 npm start
-
+```
 ## 🚀 How It Works
 
 - **Sentence Display**: Har question ek sentence ke roop mein aata hai jisme blanks (`___`) hote hain.
