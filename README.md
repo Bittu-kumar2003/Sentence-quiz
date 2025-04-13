@@ -37,3 +37,12 @@ git clone https://github.com/your-username/sentence-completion-quiz.git
 cd sentence-completion-quiz
 npm install
 npm start
+
+## 🚀 How It Works
+
+- **Sentence Display**: Har question ek sentence ke roop mein aata hai jisme blanks (`___`) hote hain.
+- **Word Selection**: User ko diye gaye options me se sahi words chunn kar blanks fill karne hote hain.
+- **Timer Functionality**: Har question ke liye 30-second timer set hota hai. Time khatam hone par agla question automatically shuru ho jaata hai.
+- **Answer Feedback**: Har question complete hone ke baad correct ya incorrect jawab turant dikhai jaate hain.
+- **Final Summary**: Quiz ke ant mein user ko complete result summary milti hai jisme har question ka analysis hota hai.
+
