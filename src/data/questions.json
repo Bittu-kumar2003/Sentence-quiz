@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "sentence": "The ___ jumped over the ___.",
+      "blanks": 2,
+      "options": ["dog", "moon", "cow", "fence"],
+      "answers": ["cow", "moon"]
+    },
+    {
+      "id": 2,
+      "sentence": "She ___ the ball and it ___ over the net.",
+      "blanks": 2,
+      "options": ["hit", "went", "missed", "jumped"],
+      "answers": ["hit", "went"]
+    },
+    {
+      "id": 3,
+      "sentence": "The company's _____________ approach to product development _____________ customer feedback at every stage, _____________ user satisfaction and _____________ a loyal consumer base.",
+      "blanks": 4,
+      "options": ["Incorporated", "User-centric", "Enhancing", "Cultivating"],
+      "answers": ["User-centric", "Incorporated", "Enhancing", "Cultivating"]
+    },
+    {
+      "id": 4,
+      "sentence": "The _____________ musical performance _____________ elements from various genres, _____________ the audience with its unique sound and _____________ critical acclaim from industry experts.",
+      "blanks": 4,
+      "options": ["Captivating", "Eclectic", "Garnering", "Blended"],
+      "answers": ["Eclectic", "Blended", "Captivating", "Garnering"]
+    },
+    {
+      "id": 5,
+      "sentence": "The scientist's _____________ research on quantum computing _____________ new possibilities for data processing, _____________ traditional limitations and _____________ the way for groundbreaking technological advancements.",
+      "blanks": 4,
+      "options": ["Pioneering", "Paving", "Overcoming", "Opened up"],
+      "answers": ["Pioneering", "Opened up", "Overcoming", "Paving"]
+    },
+    {
+      "id": 6,
+      "sentence": "The _____________ implementation of machine learning algorithms in medical diagnostics _____________ early detection of diseases, _____________ treatment outcomes and _____________ the workload of healthcare professionals.",
+      "blanks": 4,
+      "options": ["Improving", "Reducing", "Enabled", "Revolutionary"],
+      "answers": ["Revolutionary", "Enabled", "Improving", "Reducing"]
+    },
+    {
+      "id": 7,
+      "sentence": "The _____________ security breach at the tech giant _____________ millions of users' data, _____________ concerns about online privacy and _____________ calls for stricter regulations.",
+      "blanks": 4,
+      "options": ["Raising", "Massive", "Prompting", "Compromised"],
+      "answers": ["Massive", "Compromised", "Raising", "Prompting"]
+    },
+    {
+      "id": 8,
+      "sentence": "The _____________ educational reform _____________ a more inclusive curriculum, _____________ equal opportunities for all students and _____________ the overall quality of public schooling.",
+      "blanks": 4,
+      "options": ["Comprehensive", "Enhancing", "Implemented", "Promoting"],
+      "answers": ["Comprehensive", "Implemented", "Promoting", "Enhancing"]
+    },
+    {
+      "id": 9,
+      "sentence": "The company's _____________ commitment to sustainability _____________ eco-friendly practices across all departments, _____________ its carbon footprint and _____________ a model for corporate responsibility.",
+      "blanks": 4,
+      "options": ["Implemented", "Setting", "Unwavering", "Reducing"],
+      "answers": ["Unwavering", "Implemented", "Reducing", "Setting"]
+    },
+    {
+      "id": 10,
+      "sentence": "The _____________ implementation of artificial intelligence in healthcare _____________ patient outcomes, _____________ the workload of medical professionals and _____________ new avenues for personalized treatment.",
+      "blanks": 4,
+      "options": ["Opening", "Improved", "Gradual", "Reducing"],
+      "answers": ["Gradual", "Improved", "Reducing", "Opening"]
+    },
+    {
+      "id": 11,
+      "sentence": "The _____________ festival _____________ artists from diverse backgrounds, _____________ cultural exchange and _____________ a platform for emerging talents to showcase their work.",
+      "blanks": 4,
+      "options": ["Providing", "Brought together", "Promoting", "International"],
+      "answers": ["International", "Brought together", "Promoting", "Providing"]
+    },
+    {
+      "id": 12,
+      "sentence": "The _____________ implementation of smart city technologies _____________ urban efficiency and sustainability, _____________ quality of life for residents and _____________ a model for future urban development.",
+      "blanks": 4,
+      "options": ["Enhancing", "Improved", "Providing", "Widespread"],
+      "answers": ["Widespread", "Improved", "Enhancing", "Providing"]
+    }
+  ]
+  
